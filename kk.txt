@@ -1,16 +1,17 @@
-						KK - TEST 1
+						KK - TEST 2
 
 dates of exam:
-		04-10-2022 : Maths EM, TM, Accounts
-                06-10-2022 : Physics EM,TM, Commerce
-                08-10-2022 : Chemistry EM,TM
+		01-11-2022 : Maths EM, TM, Accounts
+                03-11-2022 : Physics EM,TM, Commerce
+                05-10-2022 : Chemistry EM,TM
 		
 timing:7-8.30 pm
 
 portion:
-	Physics EM, TM - Unit 1,2,3
-	Accounts TM - Unit 1,2,3,5
-	Maths EM, TM - Unit 1,2
-	Chemistry EM, TM - Unit 1,2,6
-	Commerce TM - Unit 1 to 12
+	Physics EM, TM - Unit 4,5
+	Accounts TM - Unit 4,5,6
+	Maths TM - Unit 1,2,3.1
+	Maths EM - Unit 3.5 to 5
+	Chemistry EM, TM - Unit 5,7,9
+	Commerce TM - Unit 1 to 21
 	
